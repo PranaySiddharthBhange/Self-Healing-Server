@@ -1,0 +1,384 @@
+index,timestamp,user,service,message,year,month,day,hour,minute,second,microsecond,timezone
+0,2024-08-04 10:10:27.387033+05:30,pranay,polkitd[1200]:,"Authentication Agent for unix-session:c1 (system bus name :1.44 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)",2024,8,4,10,10,27,387033,UTC+05:30
+1,2024-08-04 10:14:07.371994+05:30,pranay,gdm-password]:,unable to locate daemon control file,2024,8,4,10,14,7,371994,UTC+05:30
+2,2024-08-04 10:14:07.372421+05:30,pranay,gdm-password]:,stashed password to try later in open session,2024,8,4,10,14,7,372421,UTC+05:30
+3,2024-08-04 10:14:07.451349+05:30,pranay,gdm-password]:,session opened for user pranay(uid=1000) by pranay(uid=0),2024,8,4,10,14,7,451349,UTC+05:30
+4,2024-08-04 10:14:07.492425+05:30,pranay,systemd-logind[1225]:,session 2 of user pranay.,2024,8,4,10,14,7,492425,UTC+05:30
+5,2024-08-04 10:14:07.573079+05:30,pranay,(systemd):,session opened for user pranay(uid=1000) by pranay(uid=0),2024,8,4,10,14,7,573079,UTC+05:30
+6,2024-08-04 10:14:08.516065+05:30,pranay,gdm-password]:,unlocked login keyring,2024,8,4,10,14,8,516065,UTC+05:30
+7,2024-08-04 10:14:14.956994+05:30,pranay,gnome-keyring-daemon[2588]:,Secret Service was already initialized,2024,8,4,10,14,14,956994,UTC+05:30
+8,2024-08-04 10:14:14.958814+05:30,pranay,gnome-keyring-daemon[2909]:,1,2024,8,4,10,14,14,958814,UTC+05:30
+9,2024-08-04 10:14:14.974687+05:30,pranay,gnome-keyring-daemon[2913]:,1,2024,8,4,10,14,14,974687,UTC+05:30
+10,2024-08-04 10:14:14.976126+05:30,pranay,gnome-keyring-daemon[2588]:,PKCS#11 component was already initialized,2024,8,4,10,14,14,976126,UTC+05:30
+11,2024-08-04 10:14:14.977434+05:30,pranay,gnome-keyring-daemon[2919]:,1,2024,8,4,10,14,14,977434,UTC+05:30
+12,2024-08-04 10:14:20.886692+05:30,pranay,polkitd[1200]:,"Authentication Agent for unix-session:2 (system bus name :1.84 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)",2024,8,4,10,14,20,886692,UTC+05:30
+13,2024-08-04 10:14:23.363034+05:30,pranay,polkitd[1200]:,"Authentication Agent for unix-session:c1 (system bus name :1.44, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)",2024,8,4,10,14,23,363034,UTC+05:30
+14,2024-08-04 10:14:23.857059+05:30,pranay,gdm-launch-environment]:,session closed for user gdm,2024,8,4,10,14,23,857059,UTC+05:30
+15,2024-08-04 10:14:23.873038+05:30,pranay,systemd-logind[1225]:,c1 logged out. Waiting for processes to exit.,2024,8,4,10,14,23,873038,UTC+05:30
+16,2024-08-04 10:14:23.875213+05:30,pranay,systemd-logind[1225]:,session c1.,2024,8,4,10,14,23,875213,UTC+05:30
+17,2024-08-04 10:14:34.130257+05:30,pranay,(sd-pam):,session closed for user gdm,2024,8,4,10,14,34,130257,UTC+05:30
+18,2024-08-04 10:15:01.777560+05:30,pranay,CRON[4172]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,10,15,1,777560,UTC+05:30
+19,2024-08-04 10:15:01.813404+05:30,pranay,CRON[4172]:,session closed for user root,2024,8,4,10,15,1,813404,UTC+05:30
+20,2024-08-04 10:17:01.826363+05:30,pranay,CRON[4707]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,10,17,1,826363,UTC+05:30
+21,2024-08-04 10:17:01.848420+05:30,pranay,CRON[4707]:,session closed for user root,2024,8,4,10,17,1,848420,UTC+05:30
+22,2024-08-04 10:25:01.863816+05:30,pranay,CRON[5586]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,10,25,1,863816,UTC+05:30
+23,2024-08-04 10:25:01.873875+05:30,pranay,CRON[5586]:,session closed for user root,2024,8,4,10,25,1,873875,UTC+05:30
+24,2024-08-04 10:30:01.892709+05:30,pranay,CRON[5799]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,10,30,1,892709,UTC+05:30
+25,2024-08-04 10:30:01.900115+05:30,pranay,CRON[5799]:,session closed for user root,2024,8,4,10,30,1,900115,UTC+05:30
+26,2024-08-04 10:30:04.640769+05:30,pranay,systemd-logind[1225]:,system buttons on /dev/input/event17 (SIGMACHIP USB Keyboard Consumer Control),2024,8,4,10,30,4,640769,UTC+05:30
+27,2024-08-04 10:30:04.651638+05:30,pranay,systemd-logind[1225]:,system buttons on /dev/input/event18 (SIGMACHIP USB Keyboard System Control),2024,8,4,10,30,4,651638,UTC+05:30
+28,2024-08-04 10:30:04.651896+05:30,pranay,systemd-logind[1225]:,system buttons on /dev/input/event16 (SIGMACHIP USB Keyboard),2024,8,4,10,30,4,651896,UTC+05:30
+29,2024-08-04 10:35:01.920287+05:30,pranay,CRON[6293]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,10,35,1,920287,UTC+05:30
+30,2024-08-04 10:35:01.930515+05:30,pranay,CRON[6293]:,session closed for user root,2024,8,4,10,35,1,930515,UTC+05:30
+31,2024-08-04 10:45:01.947437+05:30,pranay,CRON[6478]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,10,45,1,947437,UTC+05:30
+32,2024-08-04 10:45:01.956515+05:30,pranay,CRON[6478]:,session closed for user root,2024,8,4,10,45,1,956515,UTC+05:30
+33,2024-08-04 10:52:15.680010+05:30,pranay,systemd-logind[1225]:,system will power off now!,2024,8,4,10,52,15,680010,UTC+05:30
+34,2024-08-04 10:52:15.805843+05:30,pranay,systemd-logind[1225]:,is powering down.,2024,8,4,10,52,15,805843,UTC+05:30
+35,2024-08-04 10:52:16.016460+05:30,pranay,gdm-password]:,session closed for user pranay,2024,8,4,10,52,16,16460,UTC+05:30
+36,2024-08-04 10:53:38.105623+05:30,pranay,polkitd[1187]:,rules from directory /etc/polkit-1/rules.d,2024,8,4,10,53,38,105623,UTC+05:30
+37,2024-08-04 10:53:38.159650+05:30,pranay,polkitd[1187]:,rules from directory /usr/share/polkit-1/rules.d,2024,8,4,10,53,38,159650,UTC+05:30
+38,2024-08-04 10:53:39.708378+05:30,pranay,polkitd[1187]:,"loading, compiling and executing 16 rules",2024,8,4,10,53,39,708378,UTC+05:30
+39,2024-08-04 10:53:39.710098+05:30,pranay,polkitd[1187]:,the name org.freedesktop.PolicyKit1 on the system bus,2024,8,4,10,53,39,710098,UTC+05:30
+40,2024-08-04 10:53:52.460971+05:30,pranay,gdm-launch-environment]:,session opened for user gdm(uid=120) by (uid=0),2024,8,4,10,53,52,460971,UTC+05:30
+41,2024-08-04 10:53:52.689308+05:30,pranay,systemd-logind[1200]:,session c1 of user gdm.,2024,8,4,10,53,52,689308,UTC+05:30
+42,2024-08-04 10:53:53.120823+05:30,pranay,(systemd):,session opened for user gdm(uid=120) by gdm(uid=0),2024,8,4,10,53,53,120823,UTC+05:30
+43,2024-08-04 10:54:31.471713+05:30,pranay,polkitd[1187]:,"Authentication Agent for unix-session:c1 (system bus name :1.43 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)",2024,8,4,10,54,31,471713,UTC+05:30
+44,2024-08-04 10:54:38.808426+05:30,pranay,gdm-password]:,unable to locate daemon control file,2024,8,4,10,54,38,808426,UTC+05:30
+45,2024-08-04 10:54:38.808892+05:30,pranay,gdm-password]:,stashed password to try later in open session,2024,8,4,10,54,38,808892,UTC+05:30
+46,2024-08-04 10:54:38.861535+05:30,pranay,gdm-password]:,session opened for user pranay(uid=1000) by pranay(uid=0),2024,8,4,10,54,38,861535,UTC+05:30
+47,2024-08-04 10:54:38.904083+05:30,pranay,systemd-logind[1200]:,session 2 of user pranay.,2024,8,4,10,54,38,904083,UTC+05:30
+48,2024-08-04 10:54:38.975986+05:30,pranay,(systemd):,session opened for user pranay(uid=1000) by pranay(uid=0),2024,8,4,10,54,38,975986,UTC+05:30
+49,2024-08-04 10:54:40.756467+05:30,pranay,gdm-password]:,unlocked login keyring,2024,8,4,10,54,40,756467,UTC+05:30
+50,2024-08-04 10:54:47.293777+05:30,pranay,gnome-keyring-daemon[2421]:,Secret Service was already initialized,2024,8,4,10,54,47,293777,UTC+05:30
+51,2024-08-04 10:54:47.295098+05:30,pranay,gnome-keyring-daemon[2793]:,1,2024,8,4,10,54,47,295098,UTC+05:30
+52,2024-08-04 10:54:47.308100+05:30,pranay,gnome-keyring-daemon[2421]:,PKCS#11 component was already initialized,2024,8,4,10,54,47,308100,UTC+05:30
+53,2024-08-04 10:54:47.309218+05:30,pranay,gnome-keyring-daemon[2796]:,1,2024,8,4,10,54,47,309218,UTC+05:30
+54,2024-08-04 10:54:47.310948+05:30,pranay,gnome-keyring-daemon[2797]:,1,2024,8,4,10,54,47,310948,UTC+05:30
+55,2024-08-04 10:54:52.963149+05:30,pranay,polkitd[1187]:,"Authentication Agent for unix-session:2 (system bus name :1.82 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)",2024,8,4,10,54,52,963149,UTC+05:30
+56,2024-08-04 10:54:55.844011+05:30,pranay,polkitd[1187]:,"Authentication Agent for unix-session:c1 (system bus name :1.43, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)",2024,8,4,10,54,55,844011,UTC+05:30
+57,2024-08-04 10:54:56.215530+05:30,pranay,gdm-launch-environment]:,session closed for user gdm,2024,8,4,10,54,56,215530,UTC+05:30
+58,2024-08-04 10:54:56.221873+05:30,pranay,systemd-logind[1200]:,c1 logged out. Waiting for processes to exit.,2024,8,4,10,54,56,221873,UTC+05:30
+59,2024-08-04 10:54:56.223718+05:30,pranay,systemd-logind[1200]:,session c1.,2024,8,4,10,54,56,223718,UTC+05:30
+60,2024-08-04 10:55:01.485490+05:30,pranay,CRON[3574]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,10,55,1,485490,UTC+05:30
+61,2024-08-04 10:55:01.522687+05:30,pranay,CRON[3574]:,session closed for user root,2024,8,4,10,55,1,522687,UTC+05:30
+62,2024-08-04 10:55:06.580773+05:30,pranay,(sd-pam):,session closed for user gdm,2024,8,4,10,55,6,580773,UTC+05:30
+63,2024-08-04 11:03:21.029209+05:30,pranay,sudo:,: TTY=pts/0 ; PWD=/home/pranay ; USER=root ; COMMAND=/usr/bin/dmesg,2024,8,4,11,3,21,29209,UTC+05:30
+64,2024-08-04 11:03:21.085429+05:30,pranay,sudo:,session opened for user root(uid=0) by pranay(uid=1000),2024,8,4,11,3,21,85429,UTC+05:30
+65,2024-08-04 11:03:21.115976+05:30,pranay,sudo:,session closed for user root,2024,8,4,11,3,21,115976,UTC+05:30
+66,2024-08-04 11:05:01.539218+05:30,pranay,CRON[5677]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,11,5,1,539218,UTC+05:30
+67,2024-08-04 11:05:01.549464+05:30,pranay,CRON[5677]:,session closed for user root,2024,8,4,11,5,1,549464,UTC+05:30
+68,2024-08-04 11:07:42.398540+05:30,pranay,sudo:,: TTY=pts/0 ; PWD=/home/pranay ; USER=root ; COMMAND=/usr/bin/dmesg,2024,8,4,11,7,42,398540,UTC+05:30
+69,2024-08-04 11:07:42.401046+05:30,pranay,sudo:,session opened for user root(uid=0) by pranay(uid=1000),2024,8,4,11,7,42,401046,UTC+05:30
+70,2024-08-04 11:07:42.432644+05:30,pranay,sudo:,session closed for user root,2024,8,4,11,7,42,432644,UTC+05:30
+71,2024-08-04 11:08:04.866812+05:30,pranay,sudo:,: TTY=pts/0 ; PWD=/home/pranay ; USER=root ; COMMAND=/usr/bin/dmesg,2024,8,4,11,8,4,866812,UTC+05:30
+72,2024-08-04 11:08:04.869658+05:30,pranay,sudo:,session opened for user root(uid=0) by pranay(uid=1000),2024,8,4,11,8,4,869658,UTC+05:30
+73,2024-08-04 11:08:04.903997+05:30,pranay,sudo:,session closed for user root,2024,8,4,11,8,4,903997,UTC+05:30
+74,2024-08-04 11:15:01.569265+05:30,pranay,CRON[5863]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,11,15,1,569265,UTC+05:30
+75,2024-08-04 11:15:01.579526+05:30,pranay,CRON[5863]:,session closed for user root,2024,8,4,11,15,1,579526,UTC+05:30
+76,2024-08-04 11:17:01.588778+05:30,pranay,CRON[5910]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,11,17,1,588778,UTC+05:30
+77,2024-08-04 11:17:01.644692+05:30,pranay,CRON[5910]:,session closed for user root,2024,8,4,11,17,1,644692,UTC+05:30
+78,2024-08-04 11:25:01.693551+05:30,pranay,CRON[9128]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,11,25,1,693551,UTC+05:30
+79,2024-08-04 11:25:01.736918+05:30,pranay,CRON[9128]:,session closed for user root,2024,8,4,11,25,1,736918,UTC+05:30
+80,2024-08-04 11:30:01.716866+05:30,pranay,CRON[11120]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,11,30,1,716866,UTC+05:30
+81,2024-08-04 11:30:01.774388+05:30,pranay,CRON[11120]:,session closed for user root,2024,8,4,11,30,1,774388,UTC+05:30
+82,2024-08-04 11:35:01.738371+05:30,pranay,CRON[12900]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,11,35,1,738371,UTC+05:30
+83,2024-08-04 11:35:01.884959+05:30,pranay,CRON[12900]:,session closed for user root,2024,8,4,11,35,1,884959,UTC+05:30
+84,2024-08-04 11:45:01.758260+05:30,pranay,CRON[14800]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,11,45,1,758260,UTC+05:30
+85,2024-08-04 11:45:01.761731+05:30,pranay,CRON[14800]:,session closed for user root,2024,8,4,11,45,1,761731,UTC+05:30
+86,2024-08-04 11:55:01.773308+05:30,pranay,CRON[14851]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,11,55,1,773308,UTC+05:30
+87,2024-08-04 11:55:01.776177+05:30,pranay,CRON[14851]:,session closed for user root,2024,8,4,11,55,1,776177,UTC+05:30
+88,2024-08-04 12:05:01.787562+05:30,pranay,CRON[14935]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,12,5,1,787562,UTC+05:30
+89,2024-08-04 12:05:01.791028+05:30,pranay,CRON[14935]:,session closed for user root,2024,8,4,12,5,1,791028,UTC+05:30
+90,2024-08-04 12:15:01.802162+05:30,pranay,CRON[14964]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,12,15,1,802162,UTC+05:30
+91,2024-08-04 12:15:02.098515+05:30,pranay,CRON[14964]:,session closed for user root,2024,8,4,12,15,2,98515,UTC+05:30
+92,2024-08-04 12:17:01.814384+05:30,pranay,CRON[14976]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,12,17,1,814384,UTC+05:30
+93,2024-08-04 12:17:01.817773+05:30,pranay,CRON[14976]:,session closed for user root,2024,8,4,12,17,1,817773,UTC+05:30
+94,2024-08-04 12:25:01.828107+05:30,pranay,CRON[14993]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,12,25,1,828107,UTC+05:30
+95,2024-08-04 12:25:01.831253+05:30,pranay,CRON[14993]:,session closed for user root,2024,8,4,12,25,1,831253,UTC+05:30
+96,2024-08-04 12:30:01.840869+05:30,pranay,CRON[15010]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,12,30,1,840869,UTC+05:30
+97,2024-08-04 12:30:01.843128+05:30,pranay,CRON[15010]:,session closed for user root,2024,8,4,12,30,1,843128,UTC+05:30
+98,2024-08-04 12:35:01.853183+05:30,pranay,CRON[15024]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,12,35,1,853183,UTC+05:30
+99,2024-08-04 12:35:01.856389+05:30,pranay,CRON[15024]:,session closed for user root,2024,8,4,12,35,1,856389,UTC+05:30
+100,2024-08-04 12:45:01.867270+05:30,pranay,CRON[15147]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,12,45,1,867270,UTC+05:30
+101,2024-08-04 12:45:01.870425+05:30,pranay,CRON[15147]:,session closed for user root,2024,8,4,12,45,1,870425,UTC+05:30
+102,2024-08-04 12:55:01.881670+05:30,pranay,CRON[15175]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,12,55,1,881670,UTC+05:30
+103,2024-08-04 12:55:01.884749+05:30,pranay,CRON[15175]:,session closed for user root,2024,8,4,12,55,1,884749,UTC+05:30
+104,2024-08-04 13:05:01.896230+05:30,pranay,CRON[15205]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,13,5,1,896230,UTC+05:30
+105,2024-08-04 13:05:01.899340+05:30,pranay,CRON[15205]:,session closed for user root,2024,8,4,13,5,1,899340,UTC+05:30
+106,2024-08-04 13:15:01.910226+05:30,pranay,CRON[15220]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,13,15,1,910226,UTC+05:30
+107,2024-08-04 13:15:01.913857+05:30,pranay,CRON[15220]:,session closed for user root,2024,8,4,13,15,1,913857,UTC+05:30
+108,2024-08-04 13:17:01.922787+05:30,pranay,CRON[15227]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,13,17,1,922787,UTC+05:30
+109,2024-08-04 13:17:02.219993+05:30,pranay,CRON[15227]:,session closed for user root,2024,8,4,13,17,2,219993,UTC+05:30
+110,2024-08-04 13:19:35.355616+05:30,pranay,gdm-password]:,unlocked login keyring,2024,8,4,13,19,35,355616,UTC+05:30
+111,2024-08-04 13:25:01.937443+05:30,pranay,CRON[16088]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,13,25,1,937443,UTC+05:30
+112,2024-08-04 13:25:01.940828+05:30,pranay,CRON[16088]:,session closed for user root,2024,8,4,13,25,1,940828,UTC+05:30
+113,2024-08-04 13:30:01.950882+05:30,pranay,CRON[16105]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,13,30,1,950882,UTC+05:30
+114,2024-08-04 13:30:01.953164+05:30,pranay,CRON[16105]:,session closed for user root,2024,8,4,13,30,1,953164,UTC+05:30
+115,2024-08-04 13:35:01.966951+05:30,pranay,CRON[16152]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,13,35,1,966951,UTC+05:30
+116,2024-08-04 13:35:02.022778+05:30,pranay,CRON[16152]:,session closed for user root,2024,8,4,13,35,2,22778,UTC+05:30
+117,2024-08-04 13:45:01.988356+05:30,pranay,CRON[16257]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,13,45,1,988356,UTC+05:30
+118,2024-08-04 13:45:01.991558+05:30,pranay,CRON[16257]:,session closed for user root,2024,8,4,13,45,1,991558,UTC+05:30
+119,2024-08-04 13:55:02.003048+05:30,pranay,CRON[16338]:,session opened for user root(uid=0) by root(uid=0),2024,8,4,13,55,2,3048,UTC+05:30
+120,2024-08-04 13:55:02.053478+05:30,pranay,CRON[16338]:,session closed for user root,2024,8,4,13,55,2,53478,UTC+05:30
+121,2024-08-04 13:59:26.282242+05:30,pranay,systemd-logind[1200]:,system will suspend now!,2024,8,4,13,59,26,282242,UTC+05:30
+122,2024-08-05 13:49:27.522134+05:30,pranay,systemd-logind[1200]:,'suspend' finished.,2024,8,5,13,49,27,522134,UTC+05:30
+123,2024-08-05 13:51:28.486250+05:30,pranay,systemd-logind[1200]:,key pressed short.,2024,8,5,13,51,28,486250,UTC+05:30
+124,2024-08-05 13:51:33.232211+05:30,pranay,gdm-password]:,unlocked login keyring,2024,8,5,13,51,33,232211,UTC+05:30
+125,2024-08-05 13:55:01.189854+05:30,pranay,CRON[17153]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,13,55,1,189854,UTC+05:30
+126,2024-08-05 13:55:01.193142+05:30,pranay,CRON[17153]:,session closed for user root,2024,8,5,13,55,1,193142,UTC+05:30
+127,2024-08-05 14:05:01.207941+05:30,pranay,CRON[17505]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,14,5,1,207941,UTC+05:30
+128,2024-08-05 14:05:01.218731+05:30,pranay,CRON[17505]:,session closed for user root,2024,8,5,14,5,1,218731,UTC+05:30
+129,2024-08-05 14:15:01.231037+05:30,pranay,CRON[17671]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,14,15,1,231037,UTC+05:30
+130,2024-08-05 14:15:01.234338+05:30,pranay,CRON[17671]:,session closed for user root,2024,8,5,14,15,1,234338,UTC+05:30
+131,2024-08-05 14:17:01.243469+05:30,pranay,CRON[17694]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,14,17,1,243469,UTC+05:30
+132,2024-08-05 14:17:01.286478+05:30,pranay,CRON[17694]:,session closed for user root,2024,8,5,14,17,1,286478,UTC+05:30
+133,2024-08-05 14:25:01.822240+05:30,pranay,CRON[17871]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,14,25,1,822240,UTC+05:30
+134,2024-08-05 14:25:01.825418+05:30,pranay,CRON[17871]:,session closed for user root,2024,8,5,14,25,1,825418,UTC+05:30
+135,2024-08-05 14:30:01.835359+05:30,pranay,CRON[17918]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,14,30,1,835359,UTC+05:30
+136,2024-08-05 14:30:01.837459+05:30,pranay,CRON[17918]:,session closed for user root,2024,8,5,14,30,1,837459,UTC+05:30
+137,2024-08-05 14:35:01.847110+05:30,pranay,CRON[17966]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,14,35,1,847110,UTC+05:30
+138,2024-08-05 14:35:01.892544+05:30,pranay,CRON[17966]:,session closed for user root,2024,8,5,14,35,1,892544,UTC+05:30
+139,2024-08-05 14:45:01.861864+05:30,pranay,CRON[18040]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,14,45,1,861864,UTC+05:30
+140,2024-08-05 14:45:01.865079+05:30,pranay,CRON[18040]:,session closed for user root,2024,8,5,14,45,1,865079,UTC+05:30
+141,2024-08-05 14:55:01.876560+05:30,pranay,CRON[18137]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,14,55,1,876560,UTC+05:30
+142,2024-08-05 14:55:01.920652+05:30,pranay,CRON[18137]:,session closed for user root,2024,8,5,14,55,1,920652,UTC+05:30
+143,2024-08-05 15:05:01.891775+05:30,pranay,CRON[18279]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,15,5,1,891775,UTC+05:30
+144,2024-08-05 15:05:01.895099+05:30,pranay,CRON[18279]:,session closed for user root,2024,8,5,15,5,1,895099,UTC+05:30
+145,2024-08-05 15:15:01.906844+05:30,pranay,CRON[18353]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,15,15,1,906844,UTC+05:30
+146,2024-08-05 15:15:01.948294+05:30,pranay,CRON[18353]:,session closed for user root,2024,8,5,15,15,1,948294,UTC+05:30
+147,2024-08-05 15:15:57.662399+05:30,pranay,gdm-password]:,unlocked login keyring,2024,8,5,15,15,57,662399,UTC+05:30
+148,2024-08-05 15:17:01.922768+05:30,pranay,CRON[18531]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,15,17,1,922768,UTC+05:30
+149,2024-08-05 15:17:01.931418+05:30,pranay,CRON[18531]:,session closed for user root,2024,8,5,15,17,1,931418,UTC+05:30
+150,2024-08-05 15:25:02.029638+05:30,pranay,CRON[19566]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,15,25,2,29638,UTC+05:30
+151,2024-08-05 15:25:02.168530+05:30,pranay,CRON[19566]:,session closed for user root,2024,8,5,15,25,2,168530,UTC+05:30
+152,2024-08-05 15:30:01.086863+05:30,pranay,CRON[20128]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,15,30,1,86863,UTC+05:30
+153,2024-08-05 15:30:01.089665+05:30,pranay,CRON[20128]:,session closed for user root,2024,8,5,15,30,1,89665,UTC+05:30
+154,2024-08-05 15:35:01.103826+05:30,pranay,CRON[20576]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,15,35,1,103826,UTC+05:30
+155,2024-08-05 15:35:01.113252+05:30,pranay,CRON[20576]:,session closed for user root,2024,8,5,15,35,1,113252,UTC+05:30
+156,2024-08-05 15:45:01.201930+05:30,pranay,CRON[21428]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,15,45,1,201930,UTC+05:30
+157,2024-08-05 15:45:01.244335+05:30,pranay,CRON[21428]:,session closed for user root,2024,8,5,15,45,1,244335,UTC+05:30
+158,2024-08-05 15:55:01.253047+05:30,pranay,CRON[22292]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,15,55,1,253047,UTC+05:30
+159,2024-08-05 15:55:01.284155+05:30,pranay,CRON[22292]:,session closed for user root,2024,8,5,15,55,1,284155,UTC+05:30
+160,2024-08-05 16:05:01.265760+05:30,pranay,CRON[23478]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,16,5,1,265760,UTC+05:30
+161,2024-08-05 16:05:01.270500+05:30,pranay,CRON[23478]:,session closed for user root,2024,8,5,16,5,1,270500,UTC+05:30
+162,2024-08-05 16:15:01.286214+05:30,pranay,CRON[27405]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,16,15,1,286214,UTC+05:30
+163,2024-08-05 16:15:01.323123+05:30,pranay,CRON[27405]:,session closed for user root,2024,8,5,16,15,1,323123,UTC+05:30
+164,2024-08-05 16:17:01.306969+05:30,pranay,CRON[27846]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,16,17,1,306969,UTC+05:30
+165,2024-08-05 16:17:01.353651+05:30,pranay,CRON[27846]:,session closed for user root,2024,8,5,16,17,1,353651,UTC+05:30
+166,2024-08-05 16:25:01.365187+05:30,pranay,CRON[29614]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,16,25,1,365187,UTC+05:30
+167,2024-08-05 16:25:01.368605+05:30,pranay,CRON[29614]:,session closed for user root,2024,8,5,16,25,1,368605,UTC+05:30
+168,2024-08-05 16:30:01.383115+05:30,pranay,CRON[30758]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,16,30,1,383115,UTC+05:30
+169,2024-08-05 16:30:01.390416+05:30,pranay,CRON[30758]:,session closed for user root,2024,8,5,16,30,1,390416,UTC+05:30
+170,2024-08-05 16:30:55.972423+05:30,pranay,gdm-password]:,unlocked login keyring,2024,8,5,16,30,55,972423,UTC+05:30
+171,2024-08-05 16:35:01.398227+05:30,pranay,CRON[33460]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,16,35,1,398227,UTC+05:30
+172,2024-08-05 16:35:01.402135+05:30,pranay,CRON[33460]:,session closed for user root,2024,8,5,16,35,1,402135,UTC+05:30
+173,2024-08-05 16:45:01.417287+05:30,pranay,CRON[39196]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,16,45,1,417287,UTC+05:30
+174,2024-08-05 16:45:01.425795+05:30,pranay,CRON[39196]:,session closed for user root,2024,8,5,16,45,1,425795,UTC+05:30
+175,2024-08-05 16:55:01.438314+05:30,pranay,CRON[40763]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,16,55,1,438314,UTC+05:30
+176,2024-08-05 16:55:01.472478+05:30,pranay,CRON[40763]:,session closed for user root,2024,8,5,16,55,1,472478,UTC+05:30
+177,2024-08-05 17:05:01.452494+05:30,pranay,CRON[40840]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,17,5,1,452494,UTC+05:30
+178,2024-08-05 17:05:01.458461+05:30,pranay,CRON[40840]:,session closed for user root,2024,8,5,17,5,1,458461,UTC+05:30
+179,2024-08-05 17:15:01.470591+05:30,pranay,CRON[40905]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,17,15,1,470591,UTC+05:30
+180,2024-08-05 17:15:01.507696+05:30,pranay,CRON[40905]:,session closed for user root,2024,8,5,17,15,1,507696,UTC+05:30
+181,2024-08-05 17:17:01.480323+05:30,pranay,CRON[40923]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,17,17,1,480323,UTC+05:30
+182,2024-08-05 17:17:01.483221+05:30,pranay,CRON[40923]:,session closed for user root,2024,8,5,17,17,1,483221,UTC+05:30
+183,2024-08-05 17:25:01.494197+05:30,pranay,CRON[40969]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,17,25,1,494197,UTC+05:30
+184,2024-08-05 17:25:01.497128+05:30,pranay,CRON[40969]:,session closed for user root,2024,8,5,17,25,1,497128,UTC+05:30
+185,2024-08-05 17:30:01.507094+05:30,pranay,CRON[41190]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,17,30,1,507094,UTC+05:30
+186,2024-08-05 17:30:01.509730+05:30,pranay,CRON[41190]:,session closed for user root,2024,8,5,17,30,1,509730,UTC+05:30
+187,2024-08-05 17:35:01.517729+05:30,pranay,CRON[41233]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,17,35,1,517729,UTC+05:30
+188,2024-08-05 17:35:01.522102+05:30,pranay,CRON[41233]:,session closed for user root,2024,8,5,17,35,1,522102,UTC+05:30
+189,2024-08-05 17:44:57.055506+05:30,pranay,gdm-password]:,authentication failure; logname=pranay uid=0 euid=0 tty=/dev/tty1 ruser= rhost= user=pranay,2024,8,5,17,44,57,55506,UTC+05:30
+190,2024-08-05 17:45:01.167499+05:30,pranay,gdm-password]:,unlocked login keyring,2024,8,5,17,45,1,167499,UTC+05:30
+191,2024-08-05 17:45:01.532002+05:30,pranay,CRON[41366]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,17,45,1,532002,UTC+05:30
+192,2024-08-05 17:45:01.535336+05:30,pranay,CRON[41366]:,session closed for user root,2024,8,5,17,45,1,535336,UTC+05:30
+193,2024-08-05 17:55:01.549331+05:30,pranay,CRON[43083]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,17,55,1,549331,UTC+05:30
+194,2024-08-05 17:55:01.555585+05:30,pranay,CRON[43083]:,session closed for user root,2024,8,5,17,55,1,555585,UTC+05:30
+195,2024-08-05 18:05:01.567605+05:30,pranay,CRON[43493]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,18,5,1,567605,UTC+05:30
+196,2024-08-05 18:05:01.600753+05:30,pranay,CRON[43493]:,session closed for user root,2024,8,5,18,5,1,600753,UTC+05:30
+197,2024-08-05 18:15:01.588842+05:30,pranay,CRON[43733]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,18,15,1,588842,UTC+05:30
+198,2024-08-05 18:15:01.599296+05:30,pranay,CRON[43733]:,session closed for user root,2024,8,5,18,15,1,599296,UTC+05:30
+199,2024-08-05 18:17:01.618171+05:30,pranay,CRON[43751]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,18,17,1,618171,UTC+05:30
+200,2024-08-05 18:17:01.646836+05:30,pranay,CRON[43751]:,session closed for user root,2024,8,5,18,17,1,646836,UTC+05:30
+201,2024-08-05 18:25:01.639542+05:30,pranay,CRON[44180]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,18,25,1,639542,UTC+05:30
+202,2024-08-05 18:25:01.643071+05:30,pranay,CRON[44180]:,session closed for user root,2024,8,5,18,25,1,643071,UTC+05:30
+203,2024-08-05 18:30:01.659009+05:30,pranay,CRON[44334]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,18,30,1,659009,UTC+05:30
+204,2024-08-05 18:30:01.697945+05:30,pranay,CRON[44334]:,session closed for user root,2024,8,5,18,30,1,697945,UTC+05:30
+205,2024-08-05 18:35:01.677736+05:30,pranay,CRON[44410]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,18,35,1,677736,UTC+05:30
+206,2024-08-05 18:35:01.704952+05:30,pranay,CRON[44410]:,session closed for user root,2024,8,5,18,35,1,704952,UTC+05:30
+207,2024-08-05 18:45:01.699063+05:30,pranay,CRON[44957]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,18,45,1,699063,UTC+05:30
+208,2024-08-05 18:45:01.707212+05:30,pranay,CRON[44957]:,session closed for user root,2024,8,5,18,45,1,707212,UTC+05:30
+209,2024-08-05 18:51:48.234073+05:30,pranay,pkexec:,session opened for user root(uid=0) by pranay(uid=1000),2024,8,5,18,51,48,234073,UTC+05:30
+210,2024-08-05 18:51:48.236370+05:30,pranay,pkexec[45809]:,Executing command [USER=root] [TTY=unknown] [CWD=/home/pranay] [COMMAND=/usr/lib/update-notifier/package-system-locked],2024,8,5,18,51,48,236370,UTC+05:30
+211,2024-08-05 18:55:01.721509+05:30,pranay,CRON[45827]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,18,55,1,721509,UTC+05:30
+212,2024-08-05 18:55:01.731288+05:30,pranay,CRON[45827]:,session closed for user root,2024,8,5,18,55,1,731288,UTC+05:30
+213,2024-08-05 19:05:01.748353+05:30,pranay,CRON[46570]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,19,5,1,748353,UTC+05:30
+214,2024-08-05 19:05:01.782876+05:30,pranay,CRON[46570]:,session closed for user root,2024,8,5,19,5,1,782876,UTC+05:30
+215,2024-08-05 19:15:01.773490+05:30,pranay,CRON[46656]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,19,15,1,773490,UTC+05:30
+216,2024-08-05 19:15:01.782314+05:30,pranay,CRON[46656]:,session closed for user root,2024,8,5,19,15,1,782314,UTC+05:30
+217,2024-08-05 19:17:01.792814+05:30,pranay,CRON[46679]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,19,17,1,792814,UTC+05:30
+218,2024-08-05 19:17:01.796231+05:30,pranay,CRON[46679]:,session closed for user root,2024,8,5,19,17,1,796231,UTC+05:30
+219,2024-08-05 19:25:01.822064+05:30,pranay,CRON[46766]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,19,25,1,822064,UTC+05:30
+220,2024-08-05 19:25:01.830882+05:30,pranay,CRON[46766]:,session closed for user root,2024,8,5,19,25,1,830882,UTC+05:30
+221,2024-08-05 19:30:01.957165+05:30,pranay,CRON[46972]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,19,30,1,957165,UTC+05:30
+222,2024-08-05 19:30:01.963291+05:30,pranay,CRON[46972]:,session closed for user root,2024,8,5,19,30,1,963291,UTC+05:30
+223,2024-08-05 19:35:02.090963+05:30,pranay,CRON[47302]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,19,35,2,90963,UTC+05:30
+224,2024-08-05 19:35:02.125018+05:30,pranay,CRON[47302]:,session closed for user root,2024,8,5,19,35,2,125018,UTC+05:30
+225,2024-08-05 19:45:01.139621+05:30,pranay,CRON[48193]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,19,45,1,139621,UTC+05:30
+226,2024-08-05 19:45:01.220131+05:30,pranay,CRON[48193]:,session closed for user root,2024,8,5,19,45,1,220131,UTC+05:30
+227,2024-08-05 19:55:01.170776+05:30,pranay,CRON[50157]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,19,55,1,170776,UTC+05:30
+228,2024-08-05 19:55:01.238737+05:30,pranay,CRON[50157]:,session closed for user root,2024,8,5,19,55,1,238737,UTC+05:30
+229,2024-08-05 20:05:01.201649+05:30,pranay,CRON[50666]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,20,5,1,201649,UTC+05:30
+230,2024-08-05 20:05:01.210331+05:30,pranay,CRON[50666]:,session closed for user root,2024,8,5,20,5,1,210331,UTC+05:30
+231,2024-08-05 20:15:01.225878+05:30,pranay,CRON[51521]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,20,15,1,225878,UTC+05:30
+232,2024-08-05 20:15:01.235203+05:30,pranay,CRON[51521]:,session closed for user root,2024,8,5,20,15,1,235203,UTC+05:30
+233,2024-08-05 20:17:01.247955+05:30,pranay,CRON[51881]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,20,17,1,247955,UTC+05:30
+234,2024-08-05 20:17:01.269219+05:30,pranay,CRON[51881]:,session closed for user root,2024,8,5,20,17,1,269219,UTC+05:30
+235,2024-08-05 20:25:01.283344+05:30,pranay,CRON[52110]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,20,25,1,283344,UTC+05:30
+236,2024-08-05 20:25:01.331006+05:30,pranay,CRON[52110]:,session closed for user root,2024,8,5,20,25,1,331006,UTC+05:30
+237,2024-08-05 20:30:01.304233+05:30,pranay,CRON[52224]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,20,30,1,304233,UTC+05:30
+238,2024-08-05 20:30:01.344903+05:30,pranay,CRON[52224]:,session closed for user root,2024,8,5,20,30,1,344903,UTC+05:30
+239,2024-08-05 20:35:01.407576+05:30,pranay,CRON[52835]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,20,35,1,407576,UTC+05:30
+240,2024-08-05 20:35:01.423991+05:30,pranay,CRON[52835]:,session closed for user root,2024,8,5,20,35,1,423991,UTC+05:30
+241,2024-08-05 20:45:01.428800+05:30,pranay,CRON[52919]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,20,45,1,428800,UTC+05:30
+242,2024-08-05 20:45:01.432448+05:30,pranay,CRON[52919]:,session closed for user root,2024,8,5,20,45,1,432448,UTC+05:30
+243,2024-08-05 20:55:01.461463+05:30,pranay,CRON[53143]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,20,55,1,461463,UTC+05:30
+244,2024-08-05 20:55:01.464731+05:30,pranay,CRON[53143]:,session closed for user root,2024,8,5,20,55,1,464731,UTC+05:30
+245,2024-08-05 21:05:01.475925+05:30,pranay,CRON[53313]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,21,5,1,475925,UTC+05:30
+246,2024-08-05 21:05:01.502967+05:30,pranay,CRON[53313]:,session closed for user root,2024,8,5,21,5,1,502967,UTC+05:30
+247,2024-08-05 21:15:01.490013+05:30,pranay,CRON[53339]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,21,15,1,490013,UTC+05:30
+248,2024-08-05 21:15:01.493120+05:30,pranay,CRON[53339]:,session closed for user root,2024,8,5,21,15,1,493120,UTC+05:30
+249,2024-08-05 21:17:01.502364+05:30,pranay,CRON[53526]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,21,17,1,502364,UTC+05:30
+250,2024-08-05 21:17:01.534505+05:30,pranay,CRON[53526]:,session closed for user root,2024,8,5,21,17,1,534505,UTC+05:30
+251,2024-08-05 21:25:01.546065+05:30,pranay,CRON[53548]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,21,25,1,546065,UTC+05:30
+252,2024-08-05 21:25:01.601391+05:30,pranay,CRON[53548]:,session closed for user root,2024,8,5,21,25,1,601391,UTC+05:30
+253,2024-08-05 21:30:01.559058+05:30,pranay,CRON[53565]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,21,30,1,559058,UTC+05:30
+254,2024-08-05 21:30:01.647921+05:30,pranay,CRON[53565]:,session closed for user root,2024,8,5,21,30,1,647921,UTC+05:30
+255,2024-08-05 21:33:27.003814+05:30,pranay,gdm-password]:,unlocked login keyring,2024,8,5,21,33,27,3814,UTC+05:30
+256,2024-08-05 21:35:01.599631+05:30,pranay,CRON[54101]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,21,35,1,599631,UTC+05:30
+257,2024-08-05 21:35:01.749114+05:30,pranay,CRON[54101]:,session closed for user root,2024,8,5,21,35,1,749114,UTC+05:30
+258,2024-08-05 21:45:01.616994+05:30,pranay,CRON[54711]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,21,45,1,616994,UTC+05:30
+259,2024-08-05 21:45:01.625584+05:30,pranay,CRON[54711]:,session closed for user root,2024,8,5,21,45,1,625584,UTC+05:30
+260,2024-08-05 21:55:01.636581+05:30,pranay,CRON[55219]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,21,55,1,636581,UTC+05:30
+261,2024-08-05 21:55:01.643149+05:30,pranay,CRON[55219]:,session closed for user root,2024,8,5,21,55,1,643149,UTC+05:30
+262,2024-08-05 22:05:01.659679+05:30,pranay,CRON[55699]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,22,5,1,659679,UTC+05:30
+263,2024-08-05 22:05:01.664582+05:30,pranay,CRON[55699]:,session closed for user root,2024,8,5,22,5,1,664582,UTC+05:30
+264,2024-08-05 22:15:01.678494+05:30,pranay,CRON[57403]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,22,15,1,678494,UTC+05:30
+265,2024-08-05 22:15:01.686675+05:30,pranay,CRON[57403]:,session closed for user root,2024,8,5,22,15,1,686675,UTC+05:30
+266,2024-08-05 22:17:01.693224+05:30,pranay,CRON[58324]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,22,17,1,693224,UTC+05:30
+267,2024-08-05 22:17:01.726563+05:30,pranay,CRON[58324]:,session closed for user root,2024,8,5,22,17,1,726563,UTC+05:30
+268,2024-08-05 22:25:01.710981+05:30,pranay,CRON[61534]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,22,25,1,710981,UTC+05:30
+269,2024-08-05 22:25:01.720973+05:30,pranay,CRON[61534]:,session closed for user root,2024,8,5,22,25,1,720973,UTC+05:30
+270,2024-08-05 22:30:01.728754+05:30,pranay,CRON[63698]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,22,30,1,728754,UTC+05:30
+271,2024-08-05 22:30:01.731406+05:30,pranay,CRON[63698]:,session closed for user root,2024,8,5,22,30,1,731406,UTC+05:30
+272,2024-08-05 22:35:01.737881+05:30,pranay,CRON[65444]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,22,35,1,737881,UTC+05:30
+273,2024-08-05 22:35:01.742978+05:30,pranay,CRON[65444]:,session closed for user root,2024,8,5,22,35,1,742978,UTC+05:30
+274,2024-08-05 22:45:01.750493+05:30,pranay,CRON[69838]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,22,45,1,750493,UTC+05:30
+275,2024-08-05 22:45:01.802628+05:30,pranay,CRON[69838]:,session closed for user root,2024,8,5,22,45,1,802628,UTC+05:30
+276,2024-08-05 22:55:01.764572+05:30,pranay,CRON[74144]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,22,55,1,764572,UTC+05:30
+277,2024-08-05 22:55:01.796981+05:30,pranay,CRON[74144]:,session closed for user root,2024,8,5,22,55,1,796981,UTC+05:30
+278,2024-08-05 23:05:01.783567+05:30,pranay,CRON[78055]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,23,5,1,783567,UTC+05:30
+279,2024-08-05 23:05:01.812440+05:30,pranay,CRON[78055]:,session closed for user root,2024,8,5,23,5,1,812440,UTC+05:30
+280,2024-08-05 23:15:01.806328+05:30,pranay,CRON[81898]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,23,15,1,806328,UTC+05:30
+281,2024-08-05 23:15:01.815038+05:30,pranay,CRON[81898]:,session closed for user root,2024,8,5,23,15,1,815038,UTC+05:30
+282,2024-08-05 23:17:01.829767+05:30,pranay,CRON[82744]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,23,17,1,829767,UTC+05:30
+283,2024-08-05 23:17:01.838628+05:30,pranay,CRON[82744]:,session closed for user root,2024,8,5,23,17,1,838628,UTC+05:30
+284,2024-08-05 23:23:40.441635+05:30,pranay,systemd-logind[1200]:,key pressed short.,2024,8,5,23,23,40,441635,UTC+05:30
+285,2024-08-05 23:23:41.031209+05:30,pranay,systemd-logind[1200]:,key pressed short.,2024,8,5,23,23,41,31209,UTC+05:30
+286,2024-08-05 23:23:41.134201+05:30,pranay,systemd-logind[1200]:,system will power off now!,2024,8,5,23,23,41,134201,UTC+05:30
+287,2024-08-05 23:23:51.711729+05:30,pranay,polkitd[1187]:,"Authentication Agent for unix-session:2 (system bus name :1.82, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)",2024,8,5,23,23,51,711729,UTC+05:30
+288,2024-08-05 23:23:52.932544+05:30,pranay,systemd-logind[1200]:,is powering down.,2024,8,5,23,23,52,932544,UTC+05:30
+289,2024-08-05 23:26:28.488330+05:30,pranay,polkitd[1184]:,rules from directory /etc/polkit-1/rules.d,2024,8,5,23,26,28,488330,UTC+05:30
+290,2024-08-05 23:26:28.559511+05:30,pranay,polkitd[1184]:,rules from directory /usr/share/polkit-1/rules.d,2024,8,5,23,26,28,559511,UTC+05:30
+291,2024-08-05 23:26:29.625247+05:30,pranay,polkitd[1184]:,"loading, compiling and executing 16 rules",2024,8,5,23,26,29,625247,UTC+05:30
+292,2024-08-05 23:26:29.627841+05:30,pranay,polkitd[1184]:,the name org.freedesktop.PolicyKit1 on the system bus,2024,8,5,23,26,29,627841,UTC+05:30
+293,2024-08-05 23:26:42.882402+05:30,pranay,gdm-launch-environment]:,session opened for user gdm(uid=120) by (uid=0),2024,8,5,23,26,42,882402,UTC+05:30
+294,2024-08-05 23:26:43.292406+05:30,pranay,systemd-logind[1198]:,session c1 of user gdm.,2024,8,5,23,26,43,292406,UTC+05:30
+295,2024-08-05 23:26:43.832199+05:30,pranay,(systemd):,session opened for user gdm(uid=120) by gdm(uid=0),2024,8,5,23,26,43,832199,UTC+05:30
+296,2024-08-05 23:27:24.323235+05:30,pranay,polkitd[1184]:,"Authentication Agent for unix-session:c1 (system bus name :1.44 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)",2024,8,5,23,27,24,323235,UTC+05:30
+297,2024-08-05 23:27:41.459084+05:30,pranay,gdm-password]:,unable to locate daemon control file,2024,8,5,23,27,41,459084,UTC+05:30
+298,2024-08-05 23:27:41.459435+05:30,pranay,gdm-password]:,stashed password to try later in open session,2024,8,5,23,27,41,459435,UTC+05:30
+299,2024-08-05 23:27:41.528418+05:30,pranay,gdm-password]:,session opened for user pranay(uid=1000) by pranay(uid=0),2024,8,5,23,27,41,528418,UTC+05:30
+300,2024-08-05 23:27:41.567314+05:30,pranay,systemd-logind[1198]:,session 2 of user pranay.,2024,8,5,23,27,41,567314,UTC+05:30
+301,2024-08-05 23:27:41.649326+05:30,pranay,(systemd):,session opened for user pranay(uid=1000) by pranay(uid=0),2024,8,5,23,27,41,649326,UTC+05:30
+302,2024-08-05 23:27:43.270377+05:30,pranay,gdm-password]:,unlocked login keyring,2024,8,5,23,27,43,270377,UTC+05:30
+303,2024-08-05 23:27:49.790243+05:30,pranay,gnome-keyring-daemon[2443]:,Secret Service was already initialized,2024,8,5,23,27,49,790243,UTC+05:30
+304,2024-08-05 23:27:49.791386+05:30,pranay,gnome-keyring-daemon[2763]:,1,2024,8,5,23,27,49,791386,UTC+05:30
+305,2024-08-05 23:27:49.805802+05:30,pranay,gnome-keyring-daemon[2443]:,PKCS#11 component was already initialized,2024,8,5,23,27,49,805802,UTC+05:30
+306,2024-08-05 23:27:49.807630+05:30,pranay,gnome-keyring-daemon[2767]:,1,2024,8,5,23,27,49,807630,UTC+05:30
+307,2024-08-05 23:27:49.808901+05:30,pranay,gnome-keyring-daemon[2768]:,1,2024,8,5,23,27,49,808901,UTC+05:30
+308,2024-08-05 23:27:55.848224+05:30,pranay,polkitd[1184]:,"Authentication Agent for unix-session:2 (system bus name :1.85 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)",2024,8,5,23,27,55,848224,UTC+05:30
+309,2024-08-05 23:27:58.488786+05:30,pranay,polkitd[1184]:,"Authentication Agent for unix-session:c1 (system bus name :1.44, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)",2024,8,5,23,27,58,488786,UTC+05:30
+310,2024-08-05 23:27:58.912161+05:30,pranay,gdm-launch-environment]:,session closed for user gdm,2024,8,5,23,27,58,912161,UTC+05:30
+311,2024-08-05 23:27:58.926548+05:30,pranay,systemd-logind[1198]:,c1 logged out. Waiting for processes to exit.,2024,8,5,23,27,58,926548,UTC+05:30
+312,2024-08-05 23:27:58.931226+05:30,pranay,systemd-logind[1198]:,session c1.,2024,8,5,23,27,58,931226,UTC+05:30
+313,2024-08-05 23:28:09.256524+05:30,pranay,(sd-pam):,session closed for user gdm,2024,8,5,23,28,9,256524,UTC+05:30
+314,2024-08-05 23:29:10.574834+05:30,pranay,pkexec:,session opened for user root(uid=0) by pranay(uid=1000),2024,8,5,23,29,10,574834,UTC+05:30
+315,2024-08-05 23:29:10.577594+05:30,pranay,pkexec[4441]:,Executing command [USER=root] [TTY=unknown] [CWD=/home/pranay] [COMMAND=/usr/lib/update-notifier/package-system-locked],2024,8,5,23,29,10,577594,UTC+05:30
+316,2024-08-05 23:30:01.146021+05:30,pranay,CRON[5045]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,23,30,1,146021,UTC+05:30
+317,2024-08-05 23:30:01.151966+05:30,pranay,CRON[5045]:,session closed for user root,2024,8,5,23,30,1,151966,UTC+05:30
+318,2024-08-05 23:35:01.167189+05:30,pranay,CRON[7246]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,23,35,1,167189,UTC+05:30
+319,2024-08-05 23:35:01.184142+05:30,pranay,CRON[7246]:,session closed for user root,2024,8,5,23,35,1,184142,UTC+05:30
+320,2024-08-05 23:43:42.828484+05:30,pranay,sudo:,: TTY=pts/2 ; PWD=/home/pranay ; USER=root ; COMMAND=/usr/bin/su,2024,8,5,23,43,42,828484,UTC+05:30
+321,2024-08-05 23:43:42.830460+05:30,pranay,sudo:,session opened for user root(uid=0) by pranay(uid=1000),2024,8,5,23,43,42,830460,UTC+05:30
+322,2024-08-05 23:43:42.878515+05:30,pranay,su[10905]:,root) root on pts/3,2024,8,5,23,43,42,878515,UTC+05:30
+323,2024-08-05 23:43:42.880496+05:30,pranay,su[10905]:,session opened for user root(uid=0) by pranay(uid=0),2024,8,5,23,43,42,880496,UTC+05:30
+324,2024-08-05 23:43:49.029115+05:30,pranay,sudo:,: TTY=pts/3 ; PWD=/home/pranay ; USER=root ; COMMAND=/usr/bin/ls,2024,8,5,23,43,49,29115,UTC+05:30
+325,2024-08-05 23:43:49.031340+05:30,pranay,sudo:,session opened for user root(uid=0) by pranay(uid=0),2024,8,5,23,43,49,31340,UTC+05:30
+326,2024-08-05 23:43:49.039797+05:30,pranay,sudo:,session closed for user root,2024,8,5,23,43,49,39797,UTC+05:30
+327,2024-08-05 23:45:01.201062+05:30,pranay,CRON[11408]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,23,45,1,201062,UTC+05:30
+328,2024-08-05 23:45:01.211225+05:30,pranay,CRON[11408]:,session closed for user root,2024,8,5,23,45,1,211225,UTC+05:30
+329,2024-08-05 23:55:00.825538+05:30,pranay,su[10905]:,session closed for user root,2024,8,5,23,55,0,825538,UTC+05:30
+330,2024-08-05 23:55:00.828751+05:30,pranay,sudo:,session closed for user root,2024,8,5,23,55,0,828751,UTC+05:30
+331,2024-08-05 23:55:01.226796+05:30,pranay,CRON[15197]:,session opened for user root(uid=0) by root(uid=0),2024,8,5,23,55,1,226796,UTC+05:30
+332,2024-08-05 23:55:01.235840+05:30,pranay,CRON[15197]:,session closed for user root,2024,8,5,23,55,1,235840,UTC+05:30
+333,2024-08-05 23:57:51.154180+05:30,pranay,systemd-logind[1198]:,system will power off now!,2024,8,5,23,57,51,154180,UTC+05:30
+334,2024-08-05 23:57:51.270117+05:30,pranay,systemd-logind[1198]:,is powering down.,2024,8,5,23,57,51,270117,UTC+05:30
+335,2024-08-05 23:57:51.425577+05:30,pranay,gdm-password]:,session closed for user pranay,2024,8,5,23,57,51,425577,UTC+05:30
+336,2024-08-06 09:34:32.308830+05:30,pranay,systemd-logind[1213]:,seat seat0.,2024,8,6,9,34,32,308830,UTC+05:30
+337,2024-08-06 09:34:32.476229+05:30,pranay,systemd-logind[1213]:,system buttons on /dev/input/event3 (Power Button),2024,8,6,9,34,32,476229,UTC+05:30
+338,2024-08-06 09:34:32.480490+05:30,pranay,systemd-logind[1213]:,system buttons on /dev/input/event0 (Lid Switch),2024,8,6,9,34,32,480490,UTC+05:30
+339,2024-08-06 09:34:32.480790+05:30,pranay,systemd-logind[1213]:,system buttons on /dev/input/event2 (Power Button),2024,8,6,9,34,32,480790,UTC+05:30
+340,2024-08-06 09:34:32.481064+05:30,pranay,systemd-logind[1213]:,system buttons on /dev/input/event1 (Sleep Button),2024,8,6,9,34,32,481064,UTC+05:30
+341,2024-08-06 09:34:32.490065+05:30,pranay,systemd-logind[1213]:,system buttons on /dev/input/event4 (AT Translated Set 2 keyboard),2024,8,6,9,34,32,490065,UTC+05:30
+342,2024-08-06 09:34:32.490284+05:30,pranay,systemd-logind[1213]:,system buttons on /dev/input/event8 (Acer WMI hotkeys),2024,8,6,9,34,32,490284,UTC+05:30
+343,2024-08-06 09:34:35.680431+05:30,pranay,polkitd[1199]:,rules from directory /etc/polkit-1/rules.d,2024,8,6,9,34,35,680431,UTC+05:30
+344,2024-08-06 09:34:35.729691+05:30,pranay,polkitd[1199]:,rules from directory /usr/share/polkit-1/rules.d,2024,8,6,9,34,35,729691,UTC+05:30
+345,2024-08-06 09:34:36.678226+05:30,pranay,polkitd[1199]:,"loading, compiling and executing 16 rules",2024,8,6,9,34,36,678226,UTC+05:30
+346,2024-08-06 09:34:36.681482+05:30,pranay,polkitd[1199]:,the name org.freedesktop.PolicyKit1 on the system bus,2024,8,6,9,34,36,681482,UTC+05:30
+347,2024-08-06 09:34:50.530316+05:30,pranay,gdm-launch-environment]:,session opened for user gdm(uid=120) by (uid=0),2024,8,6,9,34,50,530316,UTC+05:30
+348,2024-08-06 09:34:50.749845+05:30,pranay,systemd-logind[1213]:,session c1 of user gdm.,2024,8,6,9,34,50,749845,UTC+05:30
+349,2024-08-06 09:34:50.991697+05:30,pranay,(systemd):,session opened for user gdm(uid=120) by gdm(uid=0),2024,8,6,9,34,50,991697,UTC+05:30
+350,2024-08-06 09:35:00.814664+05:30,pranay,CRON[1753]:,session opened for user root(uid=0) by root(uid=0),2024,8,6,9,35,0,814664,UTC+05:30
+351,2024-08-06 09:35:00.851328+05:30,pranay,CRON[1753]:,session closed for user root,2024,8,6,9,35,0,851328,UTC+05:30
+352,2024-08-06 09:35:29.712284+05:30,pranay,polkitd[1199]:,"Authentication Agent for unix-session:c1 (system bus name :1.44 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)",2024,8,6,9,35,29,712284,UTC+05:30
+353,2024-08-06 09:35:37.874286+05:30,pranay,gdm-password]:,unable to locate daemon control file,2024,8,6,9,35,37,874286,UTC+05:30
+354,2024-08-06 09:35:37.874658+05:30,pranay,gdm-password]:,stashed password to try later in open session,2024,8,6,9,35,37,874658,UTC+05:30
+355,2024-08-06 09:35:37.927863+05:30,pranay,gdm-password]:,session opened for user pranay(uid=1000) by pranay(uid=0),2024,8,6,9,35,37,927863,UTC+05:30
+356,2024-08-06 09:35:37.974082+05:30,pranay,systemd-logind[1213]:,session 3 of user pranay.,2024,8,6,9,35,37,974082,UTC+05:30
+357,2024-08-06 09:35:38.055737+05:30,pranay,(systemd):,session opened for user pranay(uid=1000) by pranay(uid=0),2024,8,6,9,35,38,55737,UTC+05:30
+358,2024-08-06 09:35:39.002036+05:30,pranay,gdm-password]:,unlocked login keyring,2024,8,6,9,35,39,2036,UTC+05:30
+359,2024-08-06 09:35:45.377679+05:30,pranay,gnome-keyring-daemon[2468]:,Secret Service was already initialized,2024,8,6,9,35,45,377679,UTC+05:30
+360,2024-08-06 09:35:45.379357+05:30,pranay,gnome-keyring-daemon[2781]:,1,2024,8,6,9,35,45,379357,UTC+05:30
+361,2024-08-06 09:35:45.394089+05:30,pranay,gnome-keyring-daemon[2468]:,PKCS#11 component was already initialized,2024,8,6,9,35,45,394089,UTC+05:30
+362,2024-08-06 09:35:45.395271+05:30,pranay,gnome-keyring-daemon[2784]:,1,2024,8,6,9,35,45,395271,UTC+05:30
+363,2024-08-06 09:35:45.397073+05:30,pranay,gnome-keyring-daemon[2785]:,1,2024,8,6,9,35,45,397073,UTC+05:30
+364,2024-08-06 09:35:51.063050+05:30,pranay,polkitd[1199]:,"Authentication Agent for unix-session:3 (system bus name :1.84 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)",2024,8,6,9,35,51,63050,UTC+05:30
+365,2024-08-06 09:35:54.084382+05:30,pranay,polkitd[1199]:,"Authentication Agent for unix-session:c1 (system bus name :1.44, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)",2024,8,6,9,35,54,84382,UTC+05:30
+366,2024-08-06 09:35:54.497235+05:30,pranay,gdm-launch-environment]:,session closed for user gdm,2024,8,6,9,35,54,497235,UTC+05:30
+367,2024-08-06 09:35:54.511503+05:30,pranay,systemd-logind[1213]:,c1 logged out. Waiting for processes to exit.,2024,8,6,9,35,54,511503,UTC+05:30
+368,2024-08-06 09:35:54.515360+05:30,pranay,systemd-logind[1213]:,session c1.,2024,8,6,9,35,54,515360,UTC+05:30
+369,2024-08-06 09:36:04.879807+05:30,pranay,(sd-pam):,session closed for user gdm,2024,8,6,9,36,4,879807,UTC+05:30
+370,2024-08-06 09:36:58.292289+05:30,pranay,pkexec:,session opened for user root(uid=0) by pranay(uid=1000),2024,8,6,9,36,58,292289,UTC+05:30
+371,2024-08-06 09:36:58.295351+05:30,pranay,pkexec[4119]:,Executing command [USER=root] [TTY=unknown] [CWD=/home/pranay] [COMMAND=/usr/lib/update-notifier/package-system-locked],2024,8,6,9,36,58,295351,UTC+05:30
+372,2024-08-06 09:45:01.867726+05:30,pranay,CRON[4327]:,session opened for user root(uid=0) by root(uid=0),2024,8,6,9,45,1,867726,UTC+05:30
+373,2024-08-06 09:45:01.923457+05:30,pranay,CRON[4327]:,session closed for user root,2024,8,6,9,45,1,923457,UTC+05:30
+374,2024-08-06 09:51:35.759340+05:30,pranay,systemd-logind[1213]:,system will suspend now!,2024,8,6,9,51,35,759340,UTC+05:30
+375,2024-08-06 10:05:12.422242+05:30,pranay,systemd-logind[1213]:,'suspend' finished.,2024,8,6,10,5,12,422242,UTC+05:30
+376,2024-08-06 10:05:20.389951+05:30,pranay,gdm-password]:,unlocked login keyring,2024,8,6,10,5,20,389951,UTC+05:30
+377,2024-08-06 10:05:29.130708+05:30,pranay,CRON[4870]:,session opened for user root(uid=0) by root(uid=0),2024,8,6,10,5,29,130708,UTC+05:30
+378,2024-08-06 10:05:29.139767+05:30,pranay,CRON[4870]:,session closed for user root,2024,8,6,10,5,29,139767,UTC+05:30
+379,2024-08-06 10:15:01.155917+05:30,pranay,CRON[5598]:,session opened for user root(uid=0) by root(uid=0),2024,8,6,10,15,1,155917,UTC+05:30
+380,2024-08-06 10:15:01.164508+05:30,pranay,CRON[5598]:,session closed for user root,2024,8,6,10,15,1,164508,UTC+05:30
+381,2024-08-06 10:17:01.179169+05:30,pranay,CRON[5621]:,session opened for user root(uid=0) by root(uid=0),2024,8,6,10,17,1,179169,UTC+05:30
+382,2024-08-06 10:17:01.233727+05:30,pranay,CRON[5621]:,session closed for user root,2024,8,6,10,17,1,233727,UTC+05:30
